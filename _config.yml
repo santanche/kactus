@@ -27,7 +27,7 @@ defaults:
             path: "" # empty string for all files
             type: pages
         values:
-            layout: default
+            layout: default-minimal
     -
         scope:
             path: "" # empty string for all files
